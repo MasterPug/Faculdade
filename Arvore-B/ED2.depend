@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1535517472 source:c:\users\ruan_\desktop\trabalhos ed\ed2\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1537758977 source:c:\users\ruan_\desktop\ed\trabalhos ed\ed2\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<unistd.h>
+
