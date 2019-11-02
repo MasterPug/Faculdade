@@ -15,4 +15,5 @@ de Rio das Ostras.__
 
 - [Lista simulando árvore](https://github.com/MasterPug/Faculdade/tree/master/ED/Lista/Simula%C3%A7%C3%A3o_Arvore_Lista)
 - [Hash](https://github.com/MasterPug/Faculdade/tree/master/ED/Hash)
--[]()
+- [Grafos](https://github.com/MasterPug/Faculdade/tree/master/ED/Grafos)
+- [Tipo void](https://github.com/MasterPug/Faculdade/tree/master/ED/Ponteiro Genérico)
