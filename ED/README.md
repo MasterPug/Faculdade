@@ -17,3 +17,4 @@ de Rio das Ostras.__
 - [Hash](https://github.com/MasterPug/Faculdade/tree/master/ED/Hash)
 - [Grafos](https://github.com/MasterPug/Faculdade/tree/master/ED/Grafos)
 - [Tipo void](https://github.com/MasterPug/Faculdade/tree/master/ED/Ponteiro_Genérico)
+- [Backtracking](https://github.com/MasterPug/Faculdade/tree/master/ED/Backtracking)
