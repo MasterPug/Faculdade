@@ -4,9 +4,9 @@ __Alguns trabalhos realizados durante a disciplina de Estrutura de dados no curs
 de Rio das Ostras.__
 
 - Árvore
-  1. [Árvore de Binária](https://github.com/MasterPug/Faculdade/tree/master/ED/Arvore_B)
-  2. [Árvore Binário de Busca](https://github.com/MasterPug/Faculdade/tree/master/ED/Arvore_BB)
-  3. [Árvore AVL](https://github.com/MasterPug/Faculdade/tree/master/ED/Arvore_AVL)
+  1. <a href="https://github.com/MasterPug/Faculdade/tree/master/ED/Arvore_B">Árvore de Binária</a>
+  2. <a href="https://github.com/MasterPug/Faculdade/tree/master/ED/Arvore_BB">Árvore Binário de Busca</a>
+  3. <a href="https://github.com/MasterPug/Faculdade/tree/master/ED/Arvore_AVL">Árvore AVL</a>
   
 - Tipo Abstrato de dados
   - [Fila](https://github.com/MasterPug/Faculdade/tree/master/ED/TAD_Fila)
