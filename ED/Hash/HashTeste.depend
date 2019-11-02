@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1542203603 source:c:\users\ruan_\desktop\ed\hash\hashteste\main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-	<windows.h>
-
