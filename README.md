@@ -5,7 +5,7 @@ de Rio das Ostras.__
 
 - Árvore
   1. [Árvore de Binária](#https://github.com/MasterPug/Faculdade/tree/master/ED/Arvore_B)
-  2. <font color = red> [Árvore Binário de Busca](#https://github.com/MasterPug/Faculdade/tree/master/ED/Arvore_BB)</font>
+  2. [Árvore Binário de Busca](#https://github.com/MasterPug/Faculdade/tree/master/ED/Arvore_BB)
   3. [Árvore AVL](#https://github.com/MasterPug/Faculdade/tree/master/ED/Arvore_AVL)
   
 - Tipo Abstrato de dados
